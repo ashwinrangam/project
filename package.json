@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "emailjs-com": "^3.2.0"
+  },
+  "scripts": {
+    "build": "echo 'Replace this with your actual build command (e.g., vite build, react-scripts build, next build)'"
   }
 }
